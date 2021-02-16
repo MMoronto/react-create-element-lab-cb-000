@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// IMPORTANT!!!! uncomment the lines below to make your tests work
+const heading = React.createElement('h1', {}, "An Awesome Person")
 
 ReactDOM.render(
   meInReact,
